@@ -1,0 +1,86 @@
+[AutoProxy 0.2.9]
+! Original:
+! https://github.com/gfwlist/gfwlist
+
+!-- || или . - ко всем поддоменам
+!-- | - только к указанному домену
+!-- @@ - исключение
+
+!!---Debug---
+||myip.com
+
+!!---Socials---
+||accountkit.com
+cdninstagram.com
+||cdninstagram.com
+||f8.com
+||facebook.br
+.facebook.com
+||facebook.com
+@@||v6.facebook.com
+||facebook.design
+||connect.facebook.net
+||facebook.hu
+||facebook.in
+||facebook.nl
+||facebook.se
+||facebookmail.com
+||fb.com
+||fb.me
+||fb.watch
+||fbcdn.net
+||fbsbx.com
+||fbaddins.com
+||fbworkmail.com
+.instagram.com
+||instagram.com
+||m.me
+||messenger.com
+||oculus.com
+||oculuscdn.com
+||rocksdb.org
+@@||ip6.static.sl-reverse.com
+||parse.com
+||thefacebook.com
+||threads.net
+||whatsapp.com
+||whatsapp.net
+||linkedin.com
+
+!!-- Articles
+||medium.com
+
+!!-- GPT
+||chatgpt.com
+||openai.com
+
+!!-- Github Copilot
+||githubusercontent.com
+||githubcopilot.com
+||github.com
+||exp-tas.com
+
+!!-- Infra
+||terraform.io
+||hashicorp.com
+||jetbrains.com
+
+!!-- YouTube
+||googlevideo.com
+||youtube.com
+||youtu.be
+
+
+!!-- Notion
+||notion.so
+||notion.com
+
+!!-- Redis
+||redis.io
+||redis.com
+||redislabs.com
+
+!!-- Firefaucet
+@@firefaucet.win
+
+!---------------------EOF-----------------------
